@@ -6,8 +6,8 @@
 2023.06.07 - 2023.07.04
 
 ### 기술 스택
-- Python: pandas, sklearn, matplotlib, seaborn을 활용한 분석 및 시각화, 코드 리팩토링
-- Google Drive
+- ```Python```: pandas, sklearn, matplotlib, seaborn을 활용한 분석 및 시각화, 코드 리팩토링
+- ```Google Drive```
 
 ### 데이터 소개 _ [kaggle](https://www.kaggle.com/datasets/latifahhukma/fashion-campus?select=customer.csv)
 <details>
